@@ -6,3 +6,7 @@ Algorithm Problem Solving in baekjoon
 1052  물병  https://www.acmicpc.net/problem/1052
 
 1764  듣보잡 https://www.acmicpc.net/problem/1764
+
+2022-09-30
+
+1013  Contact https://www.acmicpc.net/problem/1013
