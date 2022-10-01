@@ -10,3 +10,7 @@ Algorithm Problem Solving in baekjoon
 2022-09-30
 
 1013  Contact https://www.acmicpc.net/problem/1013
+
+2022-10-01
+
+1074    Z   https://www.acmicpc.net/problem/1074
