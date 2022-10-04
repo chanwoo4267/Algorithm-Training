@@ -22,3 +22,7 @@ Algorithm Problem Solving in baekjoon
 2022-10-03
 
 2853	배			https://www.acmicpc.net/problem/2853
+
+2022-10-04
+
+2174	로봇 시뮬레이션	https://www.acmicpc.net/problem/2174
